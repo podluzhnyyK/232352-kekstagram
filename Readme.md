@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Кирилл Подлужный](https://up.htmlacademy.ru/javascript/9/user/232352).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Фатюк].
 
 ---
 
